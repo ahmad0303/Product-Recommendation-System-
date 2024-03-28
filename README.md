@@ -1,4 +1,4 @@
-# Project-Recommendation-System
+# Product-Recommendation-System
 This system generate a personalized list of recommended products for each user. 
 
 1.	Begin by importing and visualizing the dataset. Organize the data into a 2D matrix format, utilizing User ID (UID) and Product ID as the basis for recording user interactions.
